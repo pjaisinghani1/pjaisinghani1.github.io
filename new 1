@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Activity 1: Basic HTML Bio</title>
+   <h1>Pooja Jaisinghani </h1>
+</head>
+<br></br>
+<body>
+<img width="200" src="https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif" alt="Picture of me">
+  
+<h3>Find me on Social Media!</h3>
+  <ol>
+    <li>LinkedIn: </li>  <a href="www.linkedin.com/pooja-jaisinghani">@Pooja-Jaisinghani</a>
+    <li>Github:</li>   <a href="www.github.com/pjaisinghani1">@Pjaisinghani1</a>
+    <li>Instagram: </li> <a href="www.instagram.com/pjxox3">@Pjxox3</a>
+  </ol>
+  
+</body>
+​
+</html>
